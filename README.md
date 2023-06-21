@@ -80,11 +80,11 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
+- [Configurar MySQL en un entorno virtual con Laravel Homestead](https://diegochavez-dc.medium.com/configurar-mysql-en-un-entorno-virtual-con-laravel-homestead-7b62e26af885?source=rss-76dafd37da4d------2)
+- [Creando un entorno virtual con Laravel Homestead: ¡Potencia tu desarrollo web!](https://diegochavez-dc.medium.com/creando-un-entorno-virtual-con-laravel-homestead-potencia-tu-desarrollo-web-5e14afa72f02?source=rss-76dafd37da4d------2)
 - [Desbloquea tu potencial social: 14 estrategias efectivas para ser más sociable y comunicativo.](https://diegochavez-dc.medium.com/desbloquea-tu-potencial-social-14-estrategias-efectivas-para-ser-m%C3%A1s-sociable-y-comunicativo-cf356a13619b?source=rss-76dafd37da4d------2)
 - [Explorando lo mejor de ambos mundos: Guía completa para configurar un subsistema de Linux en…](https://diegochavez-dc.medium.com/explorando-lo-mejor-de-ambos-mundos-gu%C3%ADa-completa-para-configurar-un-subsistema-de-linux-en-29a72bd89bd6?source=rss-76dafd37da4d------2)
 - [¿Como aplicar los principios S.O.L.I.D. día a día como desarrollador de software?](https://diegochavez-dc.medium.com/como-aplicar-los-principios-s-o-l-i-d-d%C3%ADa-a-d%C3%ADa-como-desarrollador-de-software-b6617c1f37aa?source=rss-76dafd37da4d------2)
-- [PRINCIPIOS S.O.L.I.D. DEL DESARROLLO DE SOFTWARE](https://diegochavez-dc.medium.com/principios-s-o-l-i-d-del-desarrollo-de-software-a221956d3a18?source=rss-76dafd37da4d------2)
-- [LoopBack 4: framework de NodeJS](https://diegochavez-dc.medium.com/loopback-4-framework-de-nodejs-45988147a96b?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
