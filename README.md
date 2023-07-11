@@ -80,7 +80,7 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
-- [El poder transformador de Docker: Conceptos básicos que debes conocer para usar Docker.](https://diegochavez-dc.medium.com/el-poder-transformador-de-docker-conceptos-b%C3%A1sicos-que-debes-conocer-para-usar-docker-d72cc9ccfc54?source=rss-76dafd37da4d------2)
+- [EL PODER TRANSFORMADOR DE DOCKER: Conceptos básicos que debes conocer.](https://diegochavez-dc.medium.com/el-poder-transformador-de-docker-conceptos-b%C3%A1sicos-que-debes-conocer-para-usar-docker-d72cc9ccfc54?source=rss-76dafd37da4d------2)
 - [Solución para el error 0x80070422 de WSL y Docker en Windows causado por el bloqueo del antivirus](https://diegochavez-dc.medium.com/soluci%C3%B3n-para-el-error-0x80070422-de-wsl-y-docker-en-windows-causado-por-el-bloqueo-del-antivirus-d9a5e0611f20?source=rss-76dafd37da4d------2)
 - [Configuración personalizada: Estableciendo valores por defecto al iniciar un proyecto con NPM](https://diegochavez-dc.medium.com/configuraci%C3%B3n-personalizada-estableciendo-valores-por-defecto-al-iniciar-un-proyecto-con-npm-9695ececc483?source=rss-76dafd37da4d------2)
 - [Embellece tu Experiencia en la Terminal de Windows con Oh My Posh](https://diegochavez-dc.medium.com/embellece-tu-experiencia-en-la-terminal-de-windows-con-oh-my-posh-ab4cab28fe9b?source=rss-76dafd37da4d------2)
