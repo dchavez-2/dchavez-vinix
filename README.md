@@ -80,11 +80,11 @@ Hi 👋, I'm a software developer, passionate about creating and developing web 
 
 ### 📚​ Last Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dominando la gestión de contenedores con Dockerfiles y Docker Compose](https://diegochavez-dc.medium.com/dominando-la-gesti%C3%B3n-de-contenedores-con-dockerfiles-y-docker-compose-330ea4b7c3f6?source=rss-76dafd37da4d------2)
 - [DOMINA DOCKER: Comandos Básicos para una Gestión Eficiente](https://diegochavez-dc.medium.com/domina-docker-comandos-b%C3%A1sicos-para-una-gesti%C3%B3n-eficiente-9ecbf86d4403?source=rss-76dafd37da4d------2)
 - [Dominando el Desarrollo Dirigido por Pruebas &lpar;TDD&rpar;: Construyendo software de manera robusta y…](https://diegochavez-dc.medium.com/dominando-el-desarrollo-dirigido-por-pruebas-tdd-construyendo-software-de-manera-robusta-y-20eb0724b906?source=rss-76dafd37da4d------2)
 - [EL PODER TRANSFORMADOR DE DOCKER: Conceptos básicos que debes conocer.](https://diegochavez-dc.medium.com/el-poder-transformador-de-docker-conceptos-b%C3%A1sicos-que-debes-conocer-para-usar-docker-d72cc9ccfc54?source=rss-76dafd37da4d------2)
 - [Solución para el error 0x80070422 de WSL y Docker en Windows causado por el bloqueo del antivirus](https://diegochavez-dc.medium.com/soluci%C3%B3n-para-el-error-0x80070422-de-wsl-y-docker-en-windows-causado-por-el-bloqueo-del-antivirus-d9a5e0611f20?source=rss-76dafd37da4d------2)
-- [Configuración personalizada: Estableciendo valores por defecto al iniciar un proyecto con NPM](https://diegochavez-dc.medium.com/configuraci%C3%B3n-personalizada-estableciendo-valores-por-defecto-al-iniciar-un-proyecto-con-npm-9695ececc483?source=rss-76dafd37da4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://diegochavez-dc.medium.com">➡️ More blog posts</a></p>
